@@ -3,5 +3,5 @@
 ### Technology used :
 * CNN
 * tensorflow
-* Numpy
+* matplot-lib
  
